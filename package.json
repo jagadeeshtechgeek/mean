@@ -98,7 +98,7 @@
     "gulp-rev": "^7.1.2",
     "gulp-sass": "~2.3.0",
     "gulp-uglify": "~2.0.0",
-    "gulp-util": "~3.0.7",
+    "gulp-util": "~3.0.7"
   },
   "devDependencies": {
     "imagemin-pngquant": "~5.0.0",
